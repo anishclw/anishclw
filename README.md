@@ -2,7 +2,7 @@
   <h1> 𝐇𝐞𝐥𝐥𝐨 Anish here 👋</h1> 
   <h3 align="center">A curious developer trying to figure out my way through web development, open source, machine learning, deep learning and computer vision👩‍💻 </h3>
   <br>
-  <img align="right" alt="https://media2.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy.gif?cid=ecf05e47qn8kdq6icwcv2cd8r4k9qhzs5983j3ebyopckqyw&rid=giphy.gif&ct=g" width="250" style="margin-bottom: 100px;" src="https://media2.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy.gif?cid=ecf05e47qn8kdq6icwcv2cd8r4k9qhzs5983j3ebyopckqyw&rid=giphy.gif&ct=g">
+  <img align="right" alt="width="350" style="margin-bottom: 100px;" src="https://media0.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif?cid=ecf05e47qn8kdq6icwcv2cd8r4k9qhzs5983j3ebyopckqyw&rid=giphy.gif&ct=g">
 </div>
 
 <div align="left" font-size:"100 >
